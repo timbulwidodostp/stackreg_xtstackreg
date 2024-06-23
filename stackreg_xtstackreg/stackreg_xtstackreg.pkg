@@ -1,5 +1,7 @@
-d 'DEA': Data envelopment analysis
+d 'stackreg And xtstackreg': Stacked linear regression analysis to facilitate testing of multiple hypotheses Use stackreg And xtstackreg With STATA 18
+
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f stackreg.ado
+f stackreg.sthlp
+f xtstackreg.ado
+f xtstackreg.sthlp
