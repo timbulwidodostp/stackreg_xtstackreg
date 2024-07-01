@@ -1,6 +1,8 @@
 # stackreg_xtstackreg
 Stacked linear regression analysis to facilitate testing of multiple hypotheses Use stackreg And xtstackreg With STATA 18
 
+https://www.youtube.com/watch?v=cJbJkYcDi-E
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
